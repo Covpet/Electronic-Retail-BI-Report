@@ -4,10 +4,6 @@ This Power BI dashboard delivers a comprehensive performance analysis of a globa
 # Global Retail Analytics — Power BI Dashboard
 
 [![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNmZkZGI3NWQtNzRhMy00OWRhLWI1ZmYtNmI4NWQwOTljYTE4IiwidCI6IjliNDEwMWFiLTIyMDYtNDEyMS1iMDEwLWFhNTczNmJmYzUwYSIsImMiOjF9)
-
-# Global Retail Analytics — Power BI Dashboard
-
-[![View Dashboard](https://img.shields.io/badge/Power%20BI-View%20Dashboard-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNmZkZGI3NWQtNzRhMy00OWRhLWI1ZmYtNmI4NWQwOTljYTE4IiwidCI6IjliNDEwMWFiLTIyMDYtNDEyMS1iMDEwLWFhNTczNmJmYzUwYSIsImMiOjF9)
 [![Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers)
 
 # Key Analytical Areas
